@@ -1,0 +1,9 @@
+[submodule "deps/ValkyrieEngineCore"]
+	path = deps/ValkyrieEngineCore
+	url = https://github.com/VD-15/ValkyrieEngineCore
+[submodule "deps/ValkyrieEngineCommon"]
+	path = deps/ValkyrieEngineCommon
+	url = https://github.com/VD-15/ValkyrieEngineCommon
+[submodule "deps/VLFW"]
+	path = deps/VLFW
+	url = https://github.com/VD-15/VLFW
